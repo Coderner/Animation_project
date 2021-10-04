@@ -1,0 +1,12 @@
+body{
+    background-image: url("Images/background12.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.man{
+    height:100px;
+    width:100px;
+    
+}
