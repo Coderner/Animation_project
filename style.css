@@ -5,8 +5,10 @@ body{
     background-size: cover;
 }
 
-.man{
-    height:100px;
-    width:100px;
-    
+.image{
+    height: 250px;
+    width: 220px;
+    position:absolute;
+    top:40%;
+    left:85%;
 }
