@@ -9,7 +9,8 @@ body{
     background-size: cover;
 }
 
-.image{
+/* styling of man */
+.image{ 
     height: 250px;
     width: 220px;
     position:absolute;
@@ -17,19 +18,14 @@ body{
     left:85%;
 }
 
-.message{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: large;
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 80px;
+    text-align: center;
+    color:brown;
 }
 
-.sugar{
-    height: 60px;
-    width: 60px;
-    position:absolute;
-    top:40%;
-    left:85%;
-}
-
+/* styling of ant */
 .antmain{
     height: 150px;
     width: 180px;

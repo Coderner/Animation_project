@@ -1,8 +1,6 @@
 var man = document.querySelector(".image");
 var ant = document.querySelector(".antmain");
 
-
-
 var man_pos= screen.width-250;
 var time = setInterval(moveman,1);
 function moveman()
@@ -24,7 +22,6 @@ function moveman()
             if((parseInt(ant.style.left)==(screen.width-1100)))
             {
                 clearInterval(time2);
-                document.getElementsByClassName("message").innerHTML="Treat Time Guys!!"; 
             }
          }
    
